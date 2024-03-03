@@ -2,3 +2,4 @@
 test line 1
 <br>
 newline
+newline
